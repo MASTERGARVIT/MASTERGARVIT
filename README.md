@@ -20,9 +20,7 @@
   <a href="https://mastergarvit.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:garvitjain118@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <p>For contact: garvitjain118@gmail.com</p>
 </p>
 
 ---
