@@ -84,7 +84,7 @@ I'm a **Computer Science Engineering student** passionate about building softwar
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (for project live link go to my protfolio from above mentioned button)
 
 ### 📝 Master Blog
 
