@@ -94,7 +94,6 @@ A modern blogging platform where users can create and publish blogs.
 
 `HTML` `CSS` `JavaScript` `Firebase` `Firestore` `Google Authentication`
 
-🔗 [View Project](YOUR_MASTER_BLOG_LINK)
 
 ---
 
@@ -106,7 +105,6 @@ A full-stack e-commerce platform for an artificial jewellery business.
 
 `Next.js` `React` `Node.js` `Prisma` `PostgreSQL` `Tailwind CSS`
 
-🔗 [View Project](YOUR_JEWELLERY_PROJECT_LINK)
 
 ---
 
@@ -118,7 +116,6 @@ An AI-powered cybersecurity project designed to detect and interact with suspici
 
 `Python` `FastAPI` `AI` `LLMs` `Docker`
 
-🔗 [View Project](YOUR_AGENTIC_HONEYPOT_LINK)
 
 ---
 
@@ -130,7 +127,6 @@ An AI-based project focused on identifying and analyzing misinformation.
 
 `Python` `AI/ML` `NLP` `LLMs`
 
-🔗 [View Project](YOUR_SMARTAI_LINK)
 
 ---
 
