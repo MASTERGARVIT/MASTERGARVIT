@@ -137,11 +137,11 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
 ### Platforms
 
 <p align="left">
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/Garvit_Jain110/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="YOUR_GFG_URL">
+  <a href="https://www.geeksforgeeks.org/profile/garvitjxa6w?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
